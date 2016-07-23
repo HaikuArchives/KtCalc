@@ -1,0 +1,31 @@
+Calculation of Kt  
+for BeOS
+
+Version 1.0
+
+Writted by Mattia Tristo <mattia_tristo@libero.it>
+
+-----------------------------------------------------------
+       This version works under Zeta operating system
+---------------------------------------------------------------------
+
+
+Program to calculate the factor of stresses' concentration Kt.
+The formulation of the calculus' model has been created starting by
+graphs. These have been digitalized and then adapted to a
+mathematical model using numeric methods.
+There is no warranty of the accuracy of the values in output of this
+program, and the author assumes no responsability for the use of this
+application. 
+At this moment there is implemented only one model, relative to a
+circular section with axial forces, may be in the future more models
+will be added, if you want to contribute feel free to write the code
+for other models.
+This software is distibuited under the GNU GENERAL PUBLIC LICENSE,
+see the file COPYING for more details.
+
+
+                      Padova - Italy - 21/12/2003
+
+                          Mattia aka Simbad
+                       mattia_tristo@libero.it

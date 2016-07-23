@@ -1,0 +1,31 @@
+Calcolo del Kt  
+per BeOS
+
+Versione 1.0
+
+Ideato e realizzato da Mattia Tristo <mattia_tristo@libero.it>
+
+-----------------------------------------------------------
+       Versione sviluppata sotto il sistema operativo Zeta
+---------------------------------------------------------------------
+
+
+Programma per il calcolo del coefficiente di concentrazione degli
+sforzi Kt.
+La formulazione del modello di calcolo è stata ricavata a partire da
+grafici in seguito digitalizzati e quindi adattati ad un modello
+matematico tramite metodi numerici di regressione non lineare.
+Non vi è nessuna garazia sull'accuratezza dei valori forniti come
+risultato da questo programma, e l'autore non si assume nessuna
+responsabilità per l'uso di questo applicativo. 
+Al momento attuale è presente solo il modello a sezione circolare
+piena soggetto a forze assiali, è previsto per il futuro l'inserimento
+di altri modelli.
+Questo software è distribuito sotto la GNU GENERAL PUBLIC LICENSE,
+vedi il file COPYING per dettagli.
+
+
+                         Padova,  21/12/2003
+
+                          Mattia aka Simbad
+                       mattia_tristo@libero.it
